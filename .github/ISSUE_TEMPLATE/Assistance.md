@@ -12,7 +12,7 @@ template_path=.github/ISSUE_TEMPLATE/Assistance.md
 -->
 
 
-## For any help needed regarding coding related stuff or programming in general.
+## For any help needed regarding coding related stuff or programming in general. Can also be on coding doubts
 
 ### Guidelines to be followed : 
 ```
@@ -21,22 +21,26 @@ template_path=.github/ISSUE_TEMPLATE/Assistance.md
 ```
 
 ### Where is the issue ? 
-<-- Backend? Frontend? Database? APIs? -->
+<!-- Backend? Frontend? Database? APIs? -->
+
 
 ### What issue are you facing ?
-<-- Issue Descriptio -->
+<!-- Issue Description -->
 
 
 ### Related Clauses : 
-<-- Is it a recurring issue? Mention the file or feature name. -->
+<!-- Is it a recurring issue? Mention the file or feature name. -->
 
 
 
 ### How can we help you out ? 
-<-- What assistance you need? -->
+<!-- What assistance you need? -->
 
 
 ### Final Comments
-<-- Final issues -->
+<!-- Final issues -->
+
+### Please assign task and mention project name. See the right side bar.
+
 
 
