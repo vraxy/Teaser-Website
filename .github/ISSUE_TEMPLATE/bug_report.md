@@ -1,38 +1,49 @@
 ---
-name: Bug report
+name: ⚠️ Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug, help-wanted
 assignees: ''
 
 ---
+<!-- DO NOT DELETE 
+validate_template=true
+template_path=.github/ISSUE_TEMPLATE/bug_report.md
+-->
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!--
+Thank you for contributing to the Firebase community!
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Think you found a bug?
+=======================
+Yeah, we're definitely not perfect! Please tell us more about the issue faced.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### [REQUIRED] Environment info
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+<!-- What version of the Node.js, npm or pack-man are you using? 
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+<!-- Output of `node -v` -->
+**Node.js:**
 
-**Additional context**
-Add any other context about the problem here.
+<!-- Output of `npm -v` -->
+**npm :**
+
+<!-- e.g. macOS, Windows, Ubuntu -->
+**Platform:**
+
+### [REQUIRED] Test case
+
+<!-- Provide a minimal, complete, and verifiable example (http://stackoverflow.com/help/mcve) -->
+
+### [REQUIRED] Steps to reproduce
+
+<!-- Provide the steps needed to reproduce the issue with the above test case. -->
+
+### [REQUIRED] Expected behavior
+
+<!-- What is the expected behavior? -->
+
+### [REQUIRED] Actual behavior
+
+<!-- Paste log file produced (if any) -->
